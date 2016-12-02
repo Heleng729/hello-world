@@ -1,4 +1,4 @@
-# hello-world
+# Hello sugar labs
 
 Hello Sugar Labs
 My name is Helen Gao
